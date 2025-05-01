@@ -1,0 +1,14 @@
+{
+    "templates": {
+        "conda": {
+            "path": "./templates/conda",
+            "title": "Conda project",
+            "description": "A cookiecutter template for a conda-managed project"
+        },
+        "uv": {
+            "path": "./templates/uv",
+            "title": "UV project",
+            "description": "A cookiecutter template for a uv-managed project"
+        }
+    }
+}
