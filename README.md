@@ -23,7 +23,7 @@ Whether you're a fan of `conda`, experimenting with `uv`, or planning to standar
 
 | Template | Description |
 |----------|-------------|
-| `conda`  | Python project scaffold using `conda` for environment and dependency management. |
+| `conda`  | Python project scaffold using [`conda`](https://github.com/conda/conda) for environment and dependency management. |
 | `uv`     | Minimal, fast Python setup using [`uv`](https://github.com/astral-sh/uv) as a package manager. |
 
 ---
