@@ -72,3 +72,6 @@ your-project-slug/
 └── scripts/
     └── executable.py
 ```
+
+## Live Demo for uv template
+![](https://github.com/giunio-prc/bakerpy/blob/main/live-demo.gif)
