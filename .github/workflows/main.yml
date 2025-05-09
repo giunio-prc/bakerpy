@@ -1,5 +1,4 @@
-name: Python package
-
+name: Unit tests and Linting
 on:
   push:
     branches: [ "main" ]

@@ -1,6 +1,6 @@
 # 🧁 Bakerpy
 
-**Bakerpy** is a cookiecutter collection for generating Python project templates tailored to specific package management tools.
+![workflow](https://github.com/giunio-prc/bakerpy/actions/workflows/main.yml/badge.svg)
 
 Whether you're a fan of `conda`, experimenting with `uv`, or planning to standardize team setups — Bakerpy helps you bake consistent, ready-to-code Python projects.
 
