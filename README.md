@@ -1,6 +1,7 @@
 # 🧁 Bakerpy
 
 ![workflow](https://github.com/giunio-prc/bakerpy/actions/workflows/main.yml/badge.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Whether you're a fan of `conda`, experimenting with `uv`, or planning to standardize team setups — Bakerpy helps you bake consistent, ready-to-code Python projects.
 
